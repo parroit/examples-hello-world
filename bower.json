@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "homepage": "https://github.com/parroit/ubiquity",
+  "authors": [
+    "Andrea Parodi <andrea.parodi@ebansoftware.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ubiquity": "../../src"
+  }
+}
